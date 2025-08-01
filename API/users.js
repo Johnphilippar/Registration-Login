@@ -103,6 +103,6 @@ router.post(
       res.status(500).json({ error: 'Server error' });
     }
   }
-);git remote add origin https://github.com/Johnphilippar/Registration-Login.git
+);
 
 module.exports = router;
